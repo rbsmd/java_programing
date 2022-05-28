@@ -1,4 +1,4 @@
-package src.chapter4.ifExample;
+package chapter4.ifExample;
 
 public class ifExample2 {
     public static void main(String[] args) {

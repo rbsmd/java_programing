@@ -1,4 +1,4 @@
-package src.Chapter5.classpart;
+package Chapter5.classpart;
 
 public class Student {
 
